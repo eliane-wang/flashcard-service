@@ -114,3 +114,10 @@ Message: Flashcard added successfully to 'Biology'.
   ]
 }
 ```
+
+## UML Sequence Diagram
+The below diagram illustrates how requesting and receiving data works using text files as the communication pipeline.
+
+![Sequence diagram](https://github.com/user-attachments/assets/74393e96-faee-4529-9685-d3a75e91909c)
+
+
